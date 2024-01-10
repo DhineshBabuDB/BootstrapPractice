@@ -1,0 +1,12 @@
+
+.mycontainer div{
+    height: 4rem;
+}
+
+.reviews{
+    margin: 10rem;
+}
+
+.cardcontainer{
+    background: radial-gradient(circle, #fff200, #00ffd9);
+}
